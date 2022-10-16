@@ -1,1 +1,1 @@
-# Triangle-program
+# Triangle-and parameter program 
